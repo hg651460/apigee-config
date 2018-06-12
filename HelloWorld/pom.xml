@@ -4,7 +4,7 @@
 		<groupId>apigee</groupId>
 		<artifactId>parent-pom</artifactId>
 		<version>1.0</version>
-		<relativePath>../pom.xml</relativePath>
+		<relativePath>../shared-pom.xml</relativePath>
 	</parent>
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>Apigee</groupId>
